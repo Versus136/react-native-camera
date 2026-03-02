@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 Изменение 3 в branch2
 Изменение 2 в branch2
 Изменение 1 в branch2
+=======
+Изменение 3 в branch1
+Изменение 2 в branch1
+>>>>>>> branch1
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
@@ -17,3 +22,4 @@ You can support the development of VisionCamera by [sponsoring **@mrousavy** on 
 > You can find the old code of react-native-camera [here](https://github.com/react-native-camera/react-native-camera/tree/master).
 
 > See [this issue](https://github.com/react-native-community/react-native-camera/issues/3000) for more details.
+Изменение 1 в branch1
