@@ -1,4 +1,4 @@
-
+Изменение 1 в branch1
 # 🚧 🚧 🚧
 ## react-native-camera is deprecated.
 
